@@ -23,6 +23,7 @@ Here’s the truth table for a 1-bit full adder:
 
 ### Fig 1 : Diagram and truth table of full adder
 
+
 ### Logic Expressions:
 
 1.	Sum (S):
@@ -181,6 +182,8 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 
 
 ### Fig 10: Simulation Waveform Window
+![fig 10](https://github.com/user-attachments/assets/b82bb744-f2f1-4373-a0bd-6fb410289936)
+
 
 ### Result:
 
