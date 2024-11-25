@@ -91,7 +91,7 @@ or
 
 ### Fig 4:Setting Multi-step simulation
 
-![image](https://github.com/user-attachments/assets/9b4f7f39-93ba-4b13-81d3-29c21988ba6f)
+![image](https://github.com/user-attachments/assets/52ebdd69-2e0a-4cd7-afa1-946004e241e7)
 
 	Select Multiple Step and then select “Create cds.lib File” .
 
